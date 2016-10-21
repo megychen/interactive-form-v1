@@ -288,6 +288,7 @@ function validation() {
 
 		} else {
 			$submit_info.detach();
+			$("#name").focus();
 		}
 }
 
